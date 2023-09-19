@@ -1,0 +1,10 @@
+body {
+  background: #313030;
+}
+
+.home-page{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
